@@ -1,0 +1,2 @@
+# SCRIPT-AIMBOT
+Script aimbot
